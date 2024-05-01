@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @orangeai-research
+👋 Hi, I’m @orangeai-research
+
 👀 Interests
 I'm passionate about exploring the fascinating world of machine learning and deep learning, particularly in the areas of computer vision, medical AI, and artificial general intelligence (AGI).
 
